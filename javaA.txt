@@ -1,0 +1,12 @@
+package appjava3;
+public class A
+ {
+    int i=10;
+    public static void main()(String[]args)
+    {
+     A a1 = newA();
+     System.out.print(a1.i);
+     System.out.print(a1)
+    }
+  }  
+  
